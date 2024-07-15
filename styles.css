@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-man{
+    background-color: #1F2937;
+    color: white;
+    height: 400px;
+}
+
+a{
+    color: white;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.main-man p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.main-man, h4{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.main-links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-links, ul{
+    flex-direction: row;
+}
+
+.main-bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+.main-bottom img{
+    height: 300px;
+    width: auto;
+}
+
+.main-bottom p{
+    text-wrap: pretty;
+}
+
+.pixie-dust{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.main-bottom button{
+    background-color: #3882F6;
+    border-radius: 25px;
+    width: 70px;
+    height: 30px;
+    margin: 15px;
+}
+
+.second-column{
+    display: flex;
+    justify-content: center;
+    height: 390px;
+}
+
+.rainbow img{
+    width: 200px;
+    height: 200px;
+}
+
+ h2{
+    margin-left: 250px;
+    margin-top: 25px;
+    font-size: 36px;
+    font-weight: bolder;
+ }
+
+ .sunshine{
+    margin: 25px;
+    display: flex;
+    flex-direction: row;
+ }
+
+ .unicorn, .unicorn-two, .unicorn-three, .unicorn-four{
+    text-align: justify;
+    width: 200px;
+    margin-left: 25px;
+ }
+
+ .third-column{
+    background-color: #E5E7EB;
+    color: #1F2937;
+    text-align: center;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+ }
+
+ .third-column p{
+    font-size: 36px;
+    font-style: italic;
+ }
+
+ .lekker{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 550px;
+ }
+
+ .fourth-column{
+    height: 200px;
+    color: white;
+ }
+
+ .superman{
+    background-color: #3882F6;
+    width: 75%;
+    height: 100px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 70px 70px 70px 200px;  
+ }
+
+ .superman-baby{
+    margin-left: 50px;
+ }
+
+ .fourth-column button{
+    background-color: #3882F6;
+    color: white;
+    border-radius: 25px;
+    width: 70px;
+    height: 30px;
+ }
+
+ .footer{
+    height: 70px;
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+
